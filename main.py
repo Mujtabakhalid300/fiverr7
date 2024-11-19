@@ -1,7 +1,9 @@
 import json
 import os
 from datetime import datetime
+from time import sleep
 from playwright.sync_api import sync_playwright
+from launchChrome import launch_chrome
 
 # Function to save the JSON data to a file
 def save_json_to_file(url, json_data):
@@ -30,7 +32,7 @@ def handle_request(route, request):
 # Function to handle responses
 def handle_response(response):
     # Check if the response URL contains 'reviews' or another indicator for reviews
-    if 'reviews' in response.url:  # Modify this condition to match the relevant API URL
+    if 'reviews' in response.url and "exceptional" not in response.url:   # Modify this condition to match the relevant API URL
         print(f"Response URL: {response.url}")
         print(f"Response Status: {response.status}")
         if response.status == 200:
@@ -42,24 +44,33 @@ def handle_response(response):
                 print(f"Error parsing JSON from {response.url}: {e}")
 
 # Main script to use Playwright for scraping
-with sync_playwright() as p:
-    # Connect to the running browser using CDP
-    browser = p.chromium.connect_over_cdp("http://127.0.0.1:9222")
-    context = browser.new_context(ignore_https_errors=True)  # Ignore SSL errors
-    page = context.new_page()
+def runBrowerScript():
+    with sync_playwright() as p:
+        # Connect to the running browser using CDP
+        browser = p.chromium.connect_over_cdp("http://127.0.0.1:9222")
+        context = browser.new_context(ignore_https_errors=True)  # Ignore SSL errors
+        page = context.new_page()
 
-    # Attach event listeners to intercept requests and responses
-    page.on('route', handle_request)
-    page.on('response', handle_response)
+        # Attach event listeners to intercept requests and responses
+        page.on('route', handle_request)
+        page.on('response', handle_response)
 
-    # Navigate to the page
-    page.goto("https://smartstore.naver.com/hamonni/products/3665125285")
+        # Navigate to the page
+        page.goto("https://smartstore.naver.com/hamonni/products/3665125285")
 
-    # Wait for the page to load completely
-    page.wait_for_load_state("networkidle")
+        # Wait for the page to load completely
+        page.wait_for_load_state("networkidle")
 
-    # Wait for the requests to be intercepted and processed
-    page.wait_for_timeout(5000)  # Adjust timeout if needed to ensure data is captured
+        # Wait for the requests to be intercepted and processed
+        page.wait_for_timeout(5000)  # Adjust timeout if needed to ensure data is captured
 
-    # Close the browser
-    browser.close()
+        # Close the browser
+        browser.close()
+
+def main():
+    launch_chrome()
+    sleep(3)
+    runBrowerScript()
+
+
+main()

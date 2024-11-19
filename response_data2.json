@@ -1,0 +1,2838 @@
+{
+    "contents": [
+        {
+            "id": 4590508055,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "어제 출근길에 과메기가 급 땡기는 찰나에 인스타 하모니 보고 사무실 도착하자마자 주문했어요~\n신랑은 몰캉한거 좋아하고 저는 물렁한 느낌이 싫어 조금 딱딱?한거 좋아하는데 생각보다 몰캉해서 당황했지만 비리지 않다는 후기를 보고 먼저 과메기에 초장을 먼저 먹었는데 오잉? 생각보다 비리지 않고 꼬소하니 너무 맛있었어요~! \n이렇게 맛있는 음식을 보니 부모님 생각이 절로 나내요🥹🥹 담에 또 주문해서 양쪽 부모님께 보낼 예정입니다 🤭🤭\n너무 맛있게 잘 먹었습니당~^^\n\n아! 1인 세트라 해야하나? 혼술을 위한 세트도 나왔으면 너무 좋을것 같아요😍😍",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-11-02T09:25:34.175+00:00",
+            "modifyDate": "2024-11-02T09:37:09.084+00:00",
+            "freeTrial": false,
+            "repurchase": false,
+            "reviewRankingScore": -64.15557,
+            "writerId": "pupp*****",
+            "maskedWriterId": "pupp*****",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://phinf.pstatic.net/contact/20220110_226/1641786451732oxI7A_JPEG/KakaoTalk_20201214_101309371.jpg",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024110174991501",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContentNoDisplay": false,
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "reviewAttaches": [
+                {
+                    "id": 3366416175,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241102_59/1730539329311mjvNC_JPEG/1000038647.jpg",
+                    "attachWidth": 4000,
+                    "attachHeight": 3000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241102_59/1730539329311mjvNC_JPEG/1000038647.jpg",
+                    "attachSize": 4070998,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "1000038647.jpg",
+                    "attachDirectoryName": "/20241102_59/1730539329311mjvNC_JPEG"
+                },
+                {
+                    "id": 3366416176,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241102_40/1730539329332E2Gwq_JPEG/1000038653.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241102_40/1730539329332E2Gwq_JPEG/1000038653.jpg",
+                    "attachSize": 4408987,
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "1000038653.jpg",
+                    "attachDirectoryName": "/20241102_40/1730539329332E2Gwq_JPEG"
+                },
+                {
+                    "id": 3366416177,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241102_100/1730539329557Sbq3v_JPEG/1000038654.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241102_100/1730539329557Sbq3v_JPEG/1000038654.jpg",
+                    "attachSize": 5008988,
+                    "attachDescription": "",
+                    "sortOrder": 2,
+                    "attachName": "1000038654.jpg",
+                    "attachDirectoryName": "/20241102_100/1730539329557Sbq3v_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000236,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewUserInfoValues": [
+                {
+                    "itemId": 62,
+                    "itemOptionId": 2,
+                    "itemValue": "2인"
+                },
+                {
+                    "itemId": 63,
+                    "itemOptionId": 2,
+                    "itemValue": "신혼/부부"
+                }
+            ],
+            "reviewTopics": [
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 95,
+                    "patternEndNo": 103
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 150,
+                    "patternEndNo": 174
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 150,
+                    "patternEndNo": 160
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 178,
+                    "patternEndNo": 192
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 211,
+                    "patternEndNo": 219
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 238,
+                    "patternEndNo": 254
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 283,
+                    "patternEndNo": 303
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "NAVER_PROFILE",
+            "repThumbnailAttach": {
+                "id": 3366416175,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241102_59/1730539329311mjvNC_JPEG/1000038647.jpg",
+                "attachWidth": 4000,
+                "attachHeight": 3000,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241102_59/1730539329311mjvNC_JPEG/1000038647.jpg",
+                "attachSize": 4070998,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "1000038647.jpg",
+                "attachDirectoryName": "/20241102_59/1730539329311mjvNC_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4579282226,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "찐은 햇과메기네요. 일주일전 못기다리고 작년 과메기로 시켜먹었는데 작년 과메기도 맛있었지만 햇과메기가 진짜 맛있네요. 그냥 초장만 찍어먹어도 너무 맛있어요!! 과메기 입문자라면 꼭 하모니 햇과메기를 먹어보길 추천해요!! 꼬리쪽이 꼬들꼬들 쫀쫀득 고소하고 너무 맛있어서 입안에서 난리났네요. 장어도 아닌데 남편이랑 꼬리 먹겠다고 젓가락 사투가 일어났네요. 하모니 과메기 먹다 다른과메기 절대 못먹어요ㅠㅠ 미쳤어요 진짜!! 배추가 금값인데 마트가도 없는 속이 꽉찬 배추가 왔어요. 같이온 야채들이 박수가 나와요. 야채값이 미쳤는데 이렇게 넉넉히 올줄이야... 넉넉해서 과메기 비빔밥해먹었는데 다음날 생각나서 두줄 남겨놓고 또 먹었네요. 하... 이번 가을겨울 과메기 값으로 탕진예정입니당~",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-10-17T05:41:13.192+00:00",
+            "freeTrial": false,
+            "repurchase": true,
+            "helpCount": 1,
+            "reviewRankingScore": -64.15751,
+            "writerId": "anna****",
+            "maskedWriterId": "anna****",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://profile-phinf.pstatic.net/404/default.png",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024100921340781",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContentNoDisplay": false,
+            "productOptionContent": "♥2024 햇과메기 선주문 할인 예약♥: ★10마리20쪽 야채SET - 순차출고",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥2024 햇과메기 선주문 할인 예약♥: ★10마리20쪽 야채SET - 순차출고",
+            "reviewAttaches": [
+                {
+                    "id": 3359250438,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241017_101/1729143217358yJpPe_JPEG/1000030554.jpg",
+                    "attachWidth": 4000,
+                    "attachHeight": 3000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241017_101/1729143217358yJpPe_JPEG/1000030554.jpg",
+                    "attachSize": 2916526,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "1000030554.jpg",
+                    "attachDirectoryName": "/20241017_101/1729143217358yJpPe_JPEG"
+                },
+                {
+                    "id": 3359250439,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241017_100/1729143217269nnCb1_JPEG/1000030569.jpg",
+                    "attachWidth": 4000,
+                    "attachHeight": 3000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241017_100/1729143217269nnCb1_JPEG/1000030569.jpg",
+                    "attachSize": 2908303,
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "1000030569.jpg",
+                    "attachDirectoryName": "/20241017_100/1729143217269nnCb1_JPEG"
+                },
+                {
+                    "id": 3359250440,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241017_93/17291432173081U6KN_JPEG/1000030580.jpg",
+                    "attachWidth": 4000,
+                    "attachHeight": 3000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241017_93/17291432173081U6KN_JPEG/1000030580.jpg",
+                    "attachSize": 3174916,
+                    "attachDescription": "",
+                    "sortOrder": 2,
+                    "attachName": "1000030580.jpg",
+                    "attachDirectoryName": "/20241017_93/17291432173081U6KN_JPEG"
+                },
+                {
+                    "id": 3359250442,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241017_183/1729143217936IJNga_JPEG/1000030573.jpg",
+                    "attachWidth": 4000,
+                    "attachHeight": 3000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241017_183/1729143217936IJNga_JPEG/1000030573.jpg",
+                    "attachSize": 2959948,
+                    "attachDescription": "",
+                    "sortOrder": 3,
+                    "attachName": "1000030573.jpg",
+                    "attachDirectoryName": "/20241017_183/1729143217936IJNga_JPEG"
+                },
+                {
+                    "id": 3359250443,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241017_216/1729143218850ypdsU_JPEG/1000030574.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241017_216/1729143218850ypdsU_JPEG/1000030574.jpg",
+                    "attachSize": 3813668,
+                    "attachDescription": "",
+                    "sortOrder": 4,
+                    "attachName": "1000030574.jpg",
+                    "attachDirectoryName": "/20241017_216/1729143218850ypdsU_JPEG"
+                },
+                {
+                    "id": 3359250444,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241017_255/1729143219808jvmj9_JPEG/1000030557.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241017_255/1729143219808jvmj9_JPEG/1000030557.jpg",
+                    "attachSize": 3966917,
+                    "attachDescription": "",
+                    "sortOrder": 5,
+                    "attachName": "1000030557.jpg",
+                    "attachDirectoryName": "/20241017_255/1729143219808jvmj9_JPEG"
+                },
+                {
+                    "id": 3359250445,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241017_212/1729143220458uq0yE_JPEG/1000030576.jpg",
+                    "attachWidth": 4000,
+                    "attachHeight": 3000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241017_212/1729143220458uq0yE_JPEG/1000030576.jpg",
+                    "attachSize": 3228096,
+                    "attachDescription": "",
+                    "sortOrder": 6,
+                    "attachName": "1000030576.jpg",
+                    "attachDirectoryName": "/20241017_212/1729143220458uq0yE_JPEG"
+                },
+                {
+                    "id": 3359250446,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241017_66/1729143220187vfDOV_JPEG/1000030572.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241017_66/1729143220187vfDOV_JPEG/1000030572.jpg",
+                    "attachSize": 3929609,
+                    "attachDescription": "",
+                    "sortOrder": 7,
+                    "attachName": "1000030572.jpg",
+                    "attachDirectoryName": "/20241017_66/1729143220187vfDOV_JPEG"
+                },
+                {
+                    "id": 3359250447,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241017_29/1729143217096BYXlI_JPEG/1000030566.jpg",
+                    "attachWidth": 4000,
+                    "attachHeight": 3000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241017_29/1729143217096BYXlI_JPEG/1000030566.jpg",
+                    "attachSize": 3233289,
+                    "attachDescription": "",
+                    "sortOrder": 8,
+                    "attachName": "1000030566.jpg",
+                    "attachDirectoryName": "/20241017_29/1729143217096BYXlI_JPEG"
+                },
+                {
+                    "id": 3359250448,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241017_117/1729143214875NGHBa_JPEG/1000030567.jpg",
+                    "attachWidth": 4000,
+                    "attachHeight": 3000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241017_117/1729143214875NGHBa_JPEG/1000030567.jpg",
+                    "attachSize": 2676208,
+                    "attachDescription": "",
+                    "sortOrder": 9,
+                    "attachName": "1000030567.jpg",
+                    "attachDirectoryName": "/20241017_117/1729143214875NGHBa_JPEG"
+                },
+                {
+                    "id": 3359250449,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241017_203/1729143215376SBoX2_JPEG/1000030568.jpg",
+                    "attachWidth": 4000,
+                    "attachHeight": 3000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241017_203/1729143215376SBoX2_JPEG/1000030568.jpg",
+                    "attachSize": 3069275,
+                    "attachDescription": "",
+                    "sortOrder": 10,
+                    "attachName": "1000030568.jpg",
+                    "attachDirectoryName": "/20241017_203/1729143215376SBoX2_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000236,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewTopics": [
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 51,
+                    "patternEndNo": 63
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 73,
+                    "patternEndNo": 85
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 106,
+                    "patternEndNo": 119
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 133,
+                    "patternEndNo": 148
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 329,
+                    "patternEndNo": 344
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "DEFAULT",
+            "repThumbnailAttach": {
+                "id": 3359250438,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241017_101/1729143217358yJpPe_JPEG/1000030554.jpg",
+                "attachWidth": 4000,
+                "attachHeight": 3000,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241017_101/1729143217358yJpPe_JPEG/1000030554.jpg",
+                "attachSize": 2916526,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "1000030554.jpg",
+                "attachDirectoryName": "/20241017_101/1729143217358yJpPe_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4596680723,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "대가족 모임에 먹을려고 구매했어요.\n모두 모두 만족해서 드렸어요.\n과매기를 처음 드시는 분에게도 맛있게 싸서 드렸더니 만족하네요. 아이들도 잘 먹고 올해 처음부터 스타뚯 \n잘 했습니다. 다음에 또 주문해서 먹을거에요.\n우니도 먹을려고 했는데 품절이라 아쉽지만 다음기회는 꼭 구매해서 먹어봐야겠어요. \n하모니 초장은 최고입니다.",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-11-11T04:14:20.954+00:00",
+            "freeTrial": false,
+            "repurchase": false,
+            "reviewRankingScore": -64.16044,
+            "writerId": "82****",
+            "maskedWriterId": "82****",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://phinf.pstatic.net/contact/20200419_172/1587300921617g52c8_PNG/avatar_profile.png",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024110735754451",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContentNoDisplay": false,
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: (추천) 20마리40쪽 야채풀 SET",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: (추천) 20마리40쪽 야채풀 SET",
+            "reviewAttaches": [
+                {
+                    "id": 3370286231,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241111_269/1731298344250FdFFW_JPEG/IMG_3730.jpeg",
+                    "attachWidth": 3024,
+                    "attachHeight": 4032,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241111_269/1731298344250FdFFW_JPEG/IMG_3730.jpeg",
+                    "attachSize": 2301162,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "IMG_3730.jpeg",
+                    "attachDirectoryName": "/20241111_269/1731298344250FdFFW_JPEG"
+                },
+                {
+                    "id": 3370286232,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241111_217/17312983441812RSLW_JPEG/IMG_3731.jpeg",
+                    "attachWidth": 3024,
+                    "attachHeight": 4032,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241111_217/17312983441812RSLW_JPEG/IMG_3731.jpeg",
+                    "attachSize": 2694769,
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "IMG_3731.jpeg",
+                    "attachDirectoryName": "/20241111_217/17312983441812RSLW_JPEG"
+                },
+                {
+                    "id": 3370286233,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241111_173/1731298343718oKXdN_JPEG/IMG_3729.jpeg",
+                    "attachWidth": 3024,
+                    "attachHeight": 4032,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241111_173/1731298343718oKXdN_JPEG/IMG_3729.jpeg",
+                    "attachSize": 3273021,
+                    "attachDescription": "",
+                    "sortOrder": 2,
+                    "attachName": "IMG_3729.jpeg",
+                    "attachDirectoryName": "/20241111_173/1731298343718oKXdN_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000236,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewUserInfoValues": [
+                {
+                    "itemId": 62,
+                    "itemOptionId": 6,
+                    "itemValue": "6인 이상"
+                },
+                {
+                    "itemId": 63,
+                    "itemOptionId": 5,
+                    "itemValue": "대가족"
+                }
+            ],
+            "reviewTopics": [
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 26,
+                    "patternEndNo": 29
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 37,
+                    "patternEndNo": 59
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 73,
+                    "patternEndNo": 81
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 104,
+                    "patternEndNo": 113
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 167,
+                    "patternEndNo": 180
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "NAVER_PROFILE",
+            "repThumbnailAttach": {
+                "id": 3370286231,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241111_269/1731298344250FdFFW_JPEG/IMG_3730.jpeg",
+                "attachWidth": 3024,
+                "attachHeight": 4032,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241111_269/1731298344250FdFFW_JPEG/IMG_3730.jpeg",
+                "attachSize": 2301162,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "IMG_3730.jpeg",
+                "attachDirectoryName": "/20241111_269/1731298344250FdFFW_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4601077282,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "지인짜 맛있어요 과메기 처음 드시는 분들 있으면 꼭 하모니에서 시작하시기를 추천드려요! 비리지 않아서 부담없이 먹기 좋고 야채세트와 함께 하모니 초장 푹 찍어드시면 진짜 최고 맛있게 드실 수 있어요 ㅎㅎ 실패없는 과메기 추천드려요!",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-11-17T02:07:03.949+00:00",
+            "freeTrial": false,
+            "repurchase": false,
+            "reviewRankingScore": -64.16089,
+            "writerId": "minj*****",
+            "maskedWriterId": "minj*****",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://phinf.pstatic.net/contact/20240502_255/1714637765582LkFh0_JPEG/KakaoTalk_20240502_151240516.jpg",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024110716742561",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "reviewAttaches": [
+                {
+                    "id": 3373106604,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241117_113/1731809211033v8RS4_JPEG/IMG_4811.jpeg",
+                    "attachWidth": 2268,
+                    "attachHeight": 4032,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241117_113/1731809211033v8RS4_JPEG/IMG_4811.jpeg",
+                    "attachSize": 2756873,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "IMG_4811.jpeg",
+                    "attachDirectoryName": "/20241117_113/1731809211033v8RS4_JPEG"
+                },
+                {
+                    "id": 3373106605,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241117_55/1731809211028Om7Fk_JPEG/IMG_4810.jpeg",
+                    "attachWidth": 1862,
+                    "attachHeight": 3980,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241117_55/1731809211028Om7Fk_JPEG/IMG_4810.jpeg",
+                    "attachSize": 3013573,
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "IMG_4810.jpeg",
+                    "attachDirectoryName": "/20241117_55/1731809211028Om7Fk_JPEG"
+                },
+                {
+                    "id": 3373106606,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241117_193/1731809210944nAzQ9_JPEG/IMG_4812.jpeg",
+                    "attachWidth": 2268,
+                    "attachHeight": 4032,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241117_193/1731809210944nAzQ9_JPEG/IMG_4812.jpeg",
+                    "attachSize": 2369851,
+                    "attachDescription": "",
+                    "sortOrder": 2,
+                    "attachName": "IMG_4812.jpeg",
+                    "attachDirectoryName": "/20241117_193/1731809210944nAzQ9_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000236,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewUserInfoValues": [
+                {
+                    "itemId": 62,
+                    "itemOptionId": 6,
+                    "itemValue": "6인 이상"
+                },
+                {
+                    "itemId": 63,
+                    "itemOptionId": 5,
+                    "itemValue": "대가족"
+                }
+            ],
+            "reviewTopics": [
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 0,
+                    "patternEndNo": 7
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 29,
+                    "patternEndNo": 46
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 49,
+                    "patternEndNo": 66
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 68,
+                    "patternEndNo": 109
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 95,
+                    "patternEndNo": 109
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 114,
+                    "patternEndNo": 127
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "NAVER_PROFILE",
+            "repThumbnailAttach": {
+                "id": 3373106604,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241117_113/1731809211033v8RS4_JPEG/IMG_4811.jpeg",
+                "attachWidth": 2268,
+                "attachHeight": 4032,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241117_113/1731809211033v8RS4_JPEG/IMG_4811.jpeg",
+                "attachSize": 2756873,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "IMG_4811.jpeg",
+                "attachDirectoryName": "/20241117_113/1731809211033v8RS4_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4582944052,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "VIDEO",
+            "reviewScore": 5,
+            "reviewContent": "우리 아이들이 (8살 10살) 너~무 좋아합니다\n비린거 딱 싫어하는데 하모니 과메기는 기다린답니다!\n쫀득쫀득 고소합니다🤎\n김이랑 싸먹기도 하지만 하모니 초장에 콕 찍어 과메기만 먹는 고수가 되었어요! \n오픈하자마자 햇과메기를 시켰더니\n&quot;우와 엄마 과메기 너무 오랜만이예요&quot; \n&quot;역시 제철 과메기가 최고죠&quot; 라며 \n어른들이 할 법한 말을 하네요 ㅋㅋㅋ\n\n하모니 덕분에 아이들 영양도 잡았습니다^^\n비린거 못 드시는 과메기 초보분들은 꼭 드셔보시길\n과메기의 참맛을 알려줍니다\n아 그리고\n하모니 초장은 필수입니다!❤️",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-10-22T12:11:23.518+00:00",
+            "freeTrial": false,
+            "repurchase": false,
+            "helpCount": 3,
+            "reviewRankingScore": -64.16345,
+            "bestReview": true,
+            "bestReviewSelectDate": "2024-11-08T04:08:38.591+00:00",
+            "benefitPaymentDate": "2024-11-08T04:08:38.000+00:00",
+            "writerId": "rere****",
+            "maskedWriterId": "rere****",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://phinf.pstatic.net/contact/20230512_64/16838539213005bkb1_JPEG/KakaoTalk_20201109_111339193.jpg",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024100916957361",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContentNoDisplay": false,
+            "productOptionContent": "♥선주문 할인 예약♥/진공 급냉상품: ♥선주문 할인 예약♥ / 옵션선택: 10마리20쪽 야채SET(순차출고)",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥선주문 할인 예약♥/진공 급냉상품: ♥선주문 할인 예약♥ / 옵션선택: 10마리20쪽 야채SET(순차출고)",
+            "reviewAttaches": [
+                {
+                    "id": 3361587442,
+                    "reviewAttachmentType": "M",
+                    "attachUrl": "https://phinf.pstatic.net/image.nmv/shopnbuyer_2024_10_22_0/dw1Ymq58ND_03.jpg",
+                    "attachWidth": 1080,
+                    "attachHeight": 1920,
+                    "attachPath": "https://phinf.pstatic.net/image.nmv/shopnbuyer_2024_10_22_0/dw1Ymq58ND_03.jpg",
+                    "attachSize": 4715494,
+                    "attachServiceId": 22,
+                    "attachVid": "AF788F7639EC3475F0BA20B7933A170CBA14",
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "dw1Ymq58ND_03.jpg",
+                    "attachDirectoryName": "/shopnbuyer_2024_10_22_0",
+                    "mimeTypeName": "video/mp4",
+                    "videoStamp": "QUY3ODhGNzYzOUVDMzQ3NUYwQkEyMEI3OTMzQTE3MENCQTE0:1731961277871:37c5e81b8c8eca96c8672e3a43a0473161390996b54d4ba"
+                },
+                {
+                    "id": 3361587443,
+                    "reviewAttachmentType": "M",
+                    "attachUrl": "https://phinf.pstatic.net/image.nmv/shopnbuyer_2024_10_22_0/gkdxREqFTn_03.jpg",
+                    "attachWidth": 1080,
+                    "attachHeight": 1920,
+                    "attachPath": "https://phinf.pstatic.net/image.nmv/shopnbuyer_2024_10_22_0/gkdxREqFTn_03.jpg",
+                    "attachSize": 5120496,
+                    "attachServiceId": 22,
+                    "attachVid": "578EC5EC10EBD07B4BFC29717E6F14F6A6FA",
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "gkdxREqFTn_03.jpg",
+                    "attachDirectoryName": "/shopnbuyer_2024_10_22_0",
+                    "mimeTypeName": "video/mp4",
+                    "videoStamp": "NTc4RUM1RUMxMEVCRDA3QjRCRkMyOTcxN0U2RjE0RjZBNkZB:1731961277871:9fe780c3456789eca887d0a1f6e4317a45dc9d42998dde2"
+                },
+                {
+                    "id": 3361587444,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241022_208/1729599033034tqh2x_JPEG/20241015_181727.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241022_208/1729599033034tqh2x_JPEG/20241015_181727.jpg",
+                    "attachSize": 3608843,
+                    "attachDescription": "",
+                    "sortOrder": 2,
+                    "attachName": "20241015_181727.jpg",
+                    "attachDirectoryName": "/20241022_208/1729599033034tqh2x_JPEG"
+                },
+                {
+                    "id": 3361587445,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241022_118/1729599033301x3MKI_JPEG/20241015_180708.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241022_118/1729599033301x3MKI_JPEG/20241015_180708.jpg",
+                    "attachSize": 6274741,
+                    "attachDescription": "",
+                    "sortOrder": 3,
+                    "attachName": "20241015_180708.jpg",
+                    "attachDirectoryName": "/20241022_118/1729599033301x3MKI_JPEG"
+                },
+                {
+                    "id": 3361587446,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241022_183/1729599033252WNHhF_JPEG/20241015_180700.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241022_183/1729599033252WNHhF_JPEG/20241015_180700.jpg",
+                    "attachSize": 6091986,
+                    "attachDescription": "",
+                    "sortOrder": 4,
+                    "attachName": "20241015_180700.jpg",
+                    "attachDirectoryName": "/20241022_183/1729599033252WNHhF_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000236,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewUserInfoValues": [
+                {
+                    "itemId": 62,
+                    "itemOptionId": 4,
+                    "itemValue": "4인"
+                },
+                {
+                    "itemId": 63,
+                    "itemOptionId": 4,
+                    "itemValue": "취학자녀 가정"
+                }
+            ],
+            "reviewTopics": [
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 55,
+                    "patternEndNo": 65
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 170,
+                    "patternEndNo": 183
+                }
+            ],
+            "eventTitle": "하모니과메기",
+            "profileImageSourceType": "NAVER_PROFILE",
+            "repThumbnailAttach": {
+                "id": 3361587442,
+                "reviewAttachmentType": "M",
+                "attachUrl": "https://phinf.pstatic.net/image.nmv/shopnbuyer_2024_10_22_0/dw1Ymq58ND_03.jpg",
+                "attachWidth": 1080,
+                "attachHeight": 1920,
+                "attachPath": "https://phinf.pstatic.net/image.nmv/shopnbuyer_2024_10_22_0/dw1Ymq58ND_03.jpg",
+                "attachSize": 4715494,
+                "attachServiceId": 22,
+                "attachVid": "AF788F7639EC3475F0BA20B7933A170CBA14",
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "dw1Ymq58ND_03.jpg",
+                "attachDirectoryName": "/shopnbuyer_2024_10_22_0",
+                "mimeTypeName": "video/mp4"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4600455994,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "과메기가 깔끔하게 손질되어 있고 쫄깃하고 맛있어요. 크기나 두께가 딱 먹기도 좋고. 비린맛도 거의 없이.고소한 맛이 먹을 수 있는.과메기 입니다. 특히 초장이 너무 맛있어서 우리집 애들이 다 좋아해요. 이번에 수능 본 고3이 시험본 날 저녁에 과메기 먹고 싶대서 미리 시켜뒀다가 저녁에 과메기 파티했네요. 해마다 하모니에서 믿고 시켜 먹습니다.",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-11-16T02:08:14.526+00:00",
+            "freeTrial": false,
+            "repurchase": true,
+            "reviewRankingScore": -64.16944,
+            "writerId": "kang*******",
+            "maskedWriterId": "kang*******",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://phinf.pstatic.net/contact/20210526_66/1621994934257gbyw1_JPEG/image.jpg",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024111180352371",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: (추천) 20마리40쪽 야채풀 SET",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: (추천) 20마리40쪽 야채풀 SET",
+            "reviewAttaches": [
+                {
+                    "id": 3372688802,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241116_81/17317228338064n0tQ_JPEG/1000007503.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241116_81/17317228338064n0tQ_JPEG/1000007503.jpg",
+                    "attachSize": 4818882,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "1000007503.jpg",
+                    "attachDirectoryName": "/20241116_81/17317228338064n0tQ_JPEG"
+                },
+                {
+                    "id": 3372688803,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241116_202/1731722833822PV6Cq_JPEG/1000007504.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241116_202/1731722833822PV6Cq_JPEG/1000007504.jpg",
+                    "attachSize": 5602297,
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "1000007504.jpg",
+                    "attachDirectoryName": "/20241116_202/1731722833822PV6Cq_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000236,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewTopics": [
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 0,
+                    "patternEndNo": 26
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 29,
+                    "patternEndNo": 44
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 47,
+                    "patternEndNo": 56
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 58,
+                    "patternEndNo": 71
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 82,
+                    "patternEndNo": 95
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "NAVER_PROFILE",
+            "repThumbnailAttach": {
+                "id": 3372688802,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241116_81/17317228338064n0tQ_JPEG/1000007503.jpg",
+                "attachWidth": 3000,
+                "attachHeight": 4000,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241116_81/17317228338064n0tQ_JPEG/1000007503.jpg",
+                "attachSize": 4818882,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "1000007503.jpg",
+                "attachDirectoryName": "/20241116_81/17317228338064n0tQ_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4597064244,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "과메기가 맛있으니까 이해하고 넘어갑니다~ 아이스팩이 실링이 덜 된곳이 있었는지 녹으면서 물이 다 새서 찰랑찰랑 소리나는 아이스박스로 배송되어 왔어요ㅠ 다행히 김에는 물이 들어가지 않아서 과메기는 아주 맛있게 먹었습니다👍매년 과메기 유목민처럼 여기 시켜먹어보고 저기시켜 먹어봤는데 올해부터는 여기로 정착해야겠어요😄",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-11-11T14:40:11.141+00:00",
+            "freeTrial": false,
+            "repurchase": false,
+            "reviewRankingScore": -64.17204,
+            "writerId": "jhms****",
+            "maskedWriterId": "jhms****",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://phinf.pstatic.net/contact/20171201_258/1512093738293nmWcW_JPEG/PJ04.jpg",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024110863127721",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContentNoDisplay": false,
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "reviewAttaches": [
+                {
+                    "id": 3370523631,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241111_81/1731335741134la9yC_JPEG/1000011494.jpg",
+                    "attachWidth": 2252,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241111_81/1731335741134la9yC_JPEG/1000011494.jpg",
+                    "attachSize": 3337582,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "1000011494.jpg",
+                    "attachDirectoryName": "/20241111_81/1731335741134la9yC_JPEG"
+                },
+                {
+                    "id": 3370523632,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241111_31/1731335740955nJQaR_JPEG/1000011498.jpg",
+                    "attachWidth": 2252,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241111_31/1731335740955nJQaR_JPEG/1000011498.jpg",
+                    "attachSize": 4263754,
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "1000011498.jpg",
+                    "attachDirectoryName": "/20241111_31/1731335740955nJQaR_JPEG"
+                },
+                {
+                    "id": 3370523633,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241111_173/1731335741182L0q2x_JPEG/1000011493.jpg",
+                    "attachWidth": 2252,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241111_173/1731335741182L0q2x_JPEG/1000011493.jpg",
+                    "attachSize": 4480601,
+                    "attachDescription": "",
+                    "sortOrder": 2,
+                    "attachName": "1000011493.jpg",
+                    "attachDirectoryName": "/20241111_173/1731335741182L0q2x_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000235,
+                1000244,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewUserInfoValues": [
+                {
+                    "itemId": 62,
+                    "itemOptionId": 3,
+                    "itemValue": "3인"
+                },
+                {
+                    "itemId": 63,
+                    "itemOptionId": 3,
+                    "itemValue": "영유아 가정"
+                }
+            ],
+            "reviewTopics": [
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 0,
+                    "patternEndNo": 9
+                },
+                {
+                    "topicCode": "delivery",
+                    "topicCodeName": "배송",
+                    "patternStartNo": 62,
+                    "patternEndNo": 77
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 104,
+                    "patternEndNo": 120
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 145,
+                    "patternEndNo": 154
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 156,
+                    "patternEndNo": 173
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "NAVER_PROFILE",
+            "repThumbnailAttach": {
+                "id": 3370523631,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241111_81/1731335741134la9yC_JPEG/1000011494.jpg",
+                "attachWidth": 2252,
+                "attachHeight": 4000,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241111_81/1731335741134la9yC_JPEG/1000011494.jpg",
+                "attachSize": 3337582,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "1000011494.jpg",
+                "attachDirectoryName": "/20241111_81/1731335741134la9yC_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4597590128,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "과메기 먹어 보고 싶어서 검색해보다가 평이 좋아서 주문했어요.\n야채랑 양념, 마늘,고추 등 전부 포함 되어있어서 집에서 추가로 다른 것들을 준비할 필요없이 바로 먹기만 하면 돼서 간편하고 좋아요. 포장도 깔끔하고 야채도 신선합니다.\n술 좋아하시는 분들 술안주로 곁들이기에 딱인 느낌이에요.",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-11-12T09:07:26.390+00:00",
+            "freeTrial": false,
+            "repurchase": false,
+            "reviewRankingScore": -64.173096,
+            "writerId": "olol********",
+            "maskedWriterId": "olol********",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://profile-phinf.pstatic.net/404/default.png",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024111031461131",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContentNoDisplay": false,
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "reviewAttaches": [
+                {
+                    "id": 3370829794,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241112_47/17314023087511miSf_JPEG/20241112_161406.jpg",
+                    "attachWidth": 4000,
+                    "attachHeight": 3000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241112_47/17314023087511miSf_JPEG/20241112_161406.jpg",
+                    "attachSize": 2943453,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "20241112_161406.jpg",
+                    "attachDirectoryName": "/20241112_47/17314023087511miSf_JPEG"
+                },
+                {
+                    "id": 3370829795,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241112_27/17314023395238VoIk_JPEG/20241112_161410.jpg",
+                    "attachWidth": 4000,
+                    "attachHeight": 3000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241112_27/17314023395238VoIk_JPEG/20241112_161410.jpg",
+                    "attachSize": 4673263,
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "20241112_161410.jpg",
+                    "attachDirectoryName": "/20241112_27/17314023395238VoIk_JPEG"
+                },
+                {
+                    "id": 3370829796,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241112_44/1731402317744BiO6J_JPEG/20241112_175616.jpg",
+                    "attachWidth": 4000,
+                    "attachHeight": 3000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241112_44/1731402317744BiO6J_JPEG/20241112_175616.jpg",
+                    "attachSize": 9601954,
+                    "attachDescription": "",
+                    "sortOrder": 2,
+                    "attachName": "20241112_175616.jpg",
+                    "attachDirectoryName": "/20241112_44/1731402317744BiO6J_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000235,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewTopics": [
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 14,
+                    "patternEndNo": 26
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 100,
+                    "patternEndNo": 107
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 110,
+                    "patternEndNo": 117
+                },
+                {
+                    "topicCode": "packing",
+                    "topicCodeName": "포장",
+                    "patternStartNo": 110,
+                    "patternEndNo": 117
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "DEFAULT",
+            "repThumbnailAttach": {
+                "id": 3370829794,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241112_47/17314023087511miSf_JPEG/20241112_161406.jpg",
+                "attachWidth": 4000,
+                "attachHeight": 3000,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241112_47/17314023087511miSf_JPEG/20241112_161406.jpg",
+                "attachSize": 2943453,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "20241112_161406.jpg",
+                "attachDirectoryName": "/20241112_47/17314023087511miSf_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4598694809,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "한 주 쉬고 벌써 3번째 주문이에요\n매주 먹는것 같아요\n이정도로 좋아하지 않았는데 올해 너무 맛있네요\n혼자 20마리 시켜서 일주일정도 매일 매식사마자 반찬처럼 꺼내먹어욬ㅋㅋㅋ\n진짜 그냥 먹어도 맛있고 초장만 찍어도 맛있고\n살짝 구워도 맛있고 그냥 뭘해도 맛있어요\n오늘은 골뱅이도 주문해놨는데 너무 기대되요\n인스타 보면서 열심히 하시는 모습도 너무 보기 좋아요 다 먹고 또 올게요 👋",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-11-13T14:21:30.247+00:00",
+            "freeTrial": false,
+            "repurchase": true,
+            "reviewRankingScore": -64.17428,
+            "writerId": "dhye******",
+            "maskedWriterId": "dhye******",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://profile-phinf.pstatic.net/404/default.png",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024111163283001",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: 손질20마리40쪽 (과메기만단품)",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: 손질20마리40쪽 (과메기만단품)",
+            "reviewAttaches": [
+                {
+                    "id": 3371574149,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241113_182/1731507505680PjD90_JPEG/20241112_170950.jpg",
+                    "attachWidth": 4000,
+                    "attachHeight": 3000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241113_182/1731507505680PjD90_JPEG/20241112_170950.jpg",
+                    "attachSize": 4049789,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "20241112_170950.jpg",
+                    "attachDirectoryName": "/20241113_182/1731507505680PjD90_JPEG"
+                },
+                {
+                    "id": 3371574151,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241113_291/17315075057261PQmU_JPEG/20241112_171909.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241113_291/17315075057261PQmU_JPEG/20241112_171909.jpg",
+                    "attachSize": 4559360,
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "20241112_171909.jpg",
+                    "attachDirectoryName": "/20241113_291/17315075057261PQmU_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000236,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewUserInfoValues": [
+                {
+                    "itemId": 62,
+                    "itemOptionId": 3,
+                    "itemValue": "3인"
+                },
+                {
+                    "itemId": 63,
+                    "itemOptionId": 3,
+                    "itemValue": "영유아 가정"
+                }
+            ],
+            "reviewTopics": [
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 46,
+                    "patternEndNo": 55
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 97,
+                    "patternEndNo": 110
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 116,
+                    "patternEndNo": 145
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 179,
+                    "patternEndNo": 199
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 201,
+                    "patternEndNo": 212
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "DEFAULT",
+            "repThumbnailAttach": {
+                "id": 3371574149,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241113_182/1731507505680PjD90_JPEG/20241112_170950.jpg",
+                "attachWidth": 4000,
+                "attachHeight": 3000,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241113_182/1731507505680PjD90_JPEG/20241112_170950.jpg",
+                "attachSize": 4049789,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "20241112_170950.jpg",
+                "attachDirectoryName": "/20241113_182/1731507505680PjD90_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4598635598,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "작년엔 못먹어보고 올해 시켰어요ㅎ역시 과메기는 말할것도 없고 구성품이 최고입니다ㅎㅎ배송 하루만에 오고 야채부터 구성품이 너무 신선해요. 올해도 먹어보고 처갓집 추가주문 했어요. 양은 둘이 먹기에 2~3번 나눠 먹을정도로 푸짐합니다.",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-11-13T13:00:00.675+00:00",
+            "freeTrial": false,
+            "repurchase": false,
+            "reviewRankingScore": -64.17556,
+            "writerId": "dydg******",
+            "maskedWriterId": "dydg******",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://phinf.pstatic.net/contact/20231116_168/1700112556658Md7ge_JPEG/image.jpg",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024111187053161",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "reviewAttaches": [
+                {
+                    "id": 3371531474,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241113_156/1731502787999JGgtI_JPEG/20241113_210344.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241113_156/1731502787999JGgtI_JPEG/20241113_210344.jpg",
+                    "attachSize": 4329261,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "20241113_210344.jpg",
+                    "attachDirectoryName": "/20241113_156/1731502787999JGgtI_JPEG"
+                },
+                {
+                    "id": 3371531475,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241113_41/1731502787993ob2p1_JPEG/20241113_210856.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241113_41/1731502787993ob2p1_JPEG/20241113_210856.jpg",
+                    "attachSize": 5268076,
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "20241113_210856.jpg",
+                    "attachDirectoryName": "/20241113_41/1731502787993ob2p1_JPEG"
+                },
+                {
+                    "id": 3371531476,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241113_214/1731502788571G5S4t_JPEG/20241113_210850.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241113_214/1731502788571G5S4t_JPEG/20241113_210850.jpg",
+                    "attachSize": 5222721,
+                    "attachDescription": "",
+                    "sortOrder": 2,
+                    "attachName": "20241113_210850.jpg",
+                    "attachDirectoryName": "/20241113_214/1731502788571G5S4t_JPEG"
+                },
+                {
+                    "id": 3371531477,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241113_296/1731502788785t80Ua_JPEG/20241113_210604.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241113_296/1731502788785t80Ua_JPEG/20241113_210604.jpg",
+                    "attachSize": 4623697,
+                    "attachDescription": "",
+                    "sortOrder": 3,
+                    "attachName": "20241113_210604.jpg",
+                    "attachDirectoryName": "/20241113_296/1731502788785t80Ua_JPEG"
+                },
+                {
+                    "id": 3371531479,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241113_162/1731502786479Ks0OC_JPEG/20241113_210513.jpg",
+                    "attachWidth": 4000,
+                    "attachHeight": 3000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241113_162/1731502786479Ks0OC_JPEG/20241113_210513.jpg",
+                    "attachSize": 3561007,
+                    "attachDescription": "",
+                    "sortOrder": 4,
+                    "attachName": "20241113_210513.jpg",
+                    "attachDirectoryName": "/20241113_162/1731502786479Ks0OC_JPEG"
+                },
+                {
+                    "id": 3371531480,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241113_271/17315027879691cPWi_JPEG/20241113_185607.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241113_271/17315027879691cPWi_JPEG/20241113_185607.jpg",
+                    "attachSize": 4883365,
+                    "attachDescription": "",
+                    "sortOrder": 5,
+                    "attachName": "20241113_185607.jpg",
+                    "attachDirectoryName": "/20241113_271/17315027879691cPWi_JPEG"
+                },
+                {
+                    "id": 3371531481,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241113_75/1731502787109ve5Un_JPEG/20241113_185554.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241113_75/1731502787109ve5Un_JPEG/20241113_185554.jpg",
+                    "attachSize": 5160900,
+                    "attachDescription": "",
+                    "sortOrder": 6,
+                    "attachName": "20241113_185554.jpg",
+                    "attachDirectoryName": "/20241113_75/1731502787109ve5Un_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000236,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewUserInfoValues": [
+                {
+                    "itemId": 62,
+                    "itemOptionId": 4,
+                    "itemValue": "4인"
+                },
+                {
+                    "itemId": 63,
+                    "itemOptionId": 3,
+                    "itemValue": "영유아 가정"
+                }
+            ],
+            "reviewTopics": [
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 21,
+                    "patternEndNo": 32
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 34,
+                    "patternEndNo": 43
+                },
+                {
+                    "topicCode": "delivery",
+                    "topicCodeName": "배송",
+                    "patternStartNo": 46,
+                    "patternEndNo": 55
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "NAVER_PROFILE",
+            "repThumbnailAttach": {
+                "id": 3371531474,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241113_156/1731502787999JGgtI_JPEG/20241113_210344.jpg",
+                "attachWidth": 3000,
+                "attachHeight": 4000,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241113_156/1731502787999JGgtI_JPEG/20241113_210344.jpg",
+                "attachSize": 4329261,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "20241113_210344.jpg",
+                "attachDirectoryName": "/20241113_156/1731502787999JGgtI_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4598895915,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "VIDEO",
+            "reviewScore": 3,
+            "reviewContent": "포장이 너무 정갈하고 깔끔하니 받아서 열어보고 기분이 좋았어요~ 다만 제일 중요한 과메기가 너무 덜 말라서 씹는 느낌이 좋지 않았어요.... 과메기가 먹고 싶어서 주문한건데... 많이 아쉬웠습니다 ^^;\n그 외에 다른 야채들도 싱싱하고 좋았습니다~",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-11-14T01:36:03.735+00:00",
+            "freeTrial": false,
+            "repurchase": false,
+            "reviewRankingScore": -64.17625,
+            "writerId": "eyed******",
+            "maskedWriterId": "eyed******",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://phinf.pstatic.net/contact/46/2012/3/17/eyedrop486_1331959687588.jpg",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024111184912721",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "reviewAttaches": [
+                {
+                    "id": 3371693209,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241114_112/17315481345335DVtI_JPEG/KakaoTalk_20241113_192533377_01.jpg",
+                    "attachWidth": 1050,
+                    "attachHeight": 1400,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241114_112/17315481345335DVtI_JPEG/KakaoTalk_20241113_192533377_01.jpg",
+                    "attachSize": 701242,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "KakaoTalk_20241113_192533377_01.jpg",
+                    "attachDirectoryName": "/20241114_112/17315481345335DVtI_JPEG"
+                },
+                {
+                    "id": 3371693210,
+                    "reviewAttachmentType": "M",
+                    "attachUrl": "https://phinf.pstatic.net/image.nmv/shopnbuyer_2024_11_14_0/8OprkAVPA7_03.jpg",
+                    "attachWidth": 1920,
+                    "attachHeight": 1080,
+                    "attachPath": "https://phinf.pstatic.net/image.nmv/shopnbuyer_2024_11_14_0/8OprkAVPA7_03.jpg",
+                    "attachSize": 1753220,
+                    "attachServiceId": 22,
+                    "attachVid": "1D4B22780EBCE50EB47520C1347F92147CA7",
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "8OprkAVPA7_03.jpg",
+                    "attachDirectoryName": "/shopnbuyer_2024_11_14_0",
+                    "mimeTypeName": "video/mp4",
+                    "videoStamp": "MUQ0QjIyNzgwRUJDRTUwRUI0NzUyMEMxMzQ3RjkyMTQ3Q0E3:1731961277871:64149da6cffbec00b81bb610381c1ce6b526ab863a5b6a5"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000223,
+                1000236,
+                1000245
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewUserInfoValues": [
+                {
+                    "itemId": 62,
+                    "itemOptionId": 4,
+                    "itemValue": "4인"
+                },
+                {
+                    "itemId": 63,
+                    "itemOptionId": 4,
+                    "itemValue": "취학자녀 가정"
+                }
+            ],
+            "reviewTopics": [
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 0,
+                    "patternEndNo": 15
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 26,
+                    "patternEndNo": 33
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 79,
+                    "patternEndNo": 108
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "NAVER_PROFILE",
+            "repThumbnailAttach": {
+                "id": 3371693210,
+                "reviewAttachmentType": "M",
+                "attachUrl": "https://phinf.pstatic.net/image.nmv/shopnbuyer_2024_11_14_0/8OprkAVPA7_03.jpg",
+                "attachWidth": 1920,
+                "attachHeight": 1080,
+                "attachPath": "https://phinf.pstatic.net/image.nmv/shopnbuyer_2024_11_14_0/8OprkAVPA7_03.jpg",
+                "attachSize": 1753220,
+                "attachServiceId": 22,
+                "attachVid": "1D4B22780EBCE50EB47520C1347F92147CA7",
+                "attachDescription": "",
+                "sortOrder": 1,
+                "attachName": "8OprkAVPA7_03.jpg",
+                "attachDirectoryName": "/shopnbuyer_2024_11_14_0",
+                "mimeTypeName": "video/mp4"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4598726052,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "너무 맛있어요 !! 기절 🩷\n하모니 하모니하는 이유가 있었네요\n웃긴점 : 엄마는 과메기를 안좋아한다고 했는데,,,,\n무침 해줬더니 앞에두고 완뽕(?)하네요\n(( 하모니덕에 효녀가되.. )) \n날이 추워지니 늘 건강 유의하시고 \n더 더 번창하세요 아프지마세요 사장님들 😍 🥰",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-11-13T15:29:09.186+00:00",
+            "freeTrial": false,
+            "repurchase": false,
+            "reviewRankingScore": -64.176346,
+            "writerId": "yegg****",
+            "maskedWriterId": "yegg****",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://profile-phinf.pstatic.net/404/default.png",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024111216273771",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "reviewAttaches": [
+                {
+                    "id": 3371596473,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241114_160/1731510916647wAQN6_JPEG/IMG_7654.jpeg",
+                    "attachWidth": 3213,
+                    "attachHeight": 5712,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241114_160/1731510916647wAQN6_JPEG/IMG_7654.jpeg",
+                    "attachSize": 5095018,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "IMG_7654.jpeg",
+                    "attachDirectoryName": "/20241114_160/1731510916647wAQN6_JPEG"
+                },
+                {
+                    "id": 3371596474,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241114_165/1731510911699AGG1p_JPEG/IMG_7656.jpeg",
+                    "attachWidth": 2880,
+                    "attachHeight": 5120,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241114_165/1731510911699AGG1p_JPEG/IMG_7656.jpeg",
+                    "attachSize": 3596362,
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "IMG_7656.jpeg",
+                    "attachDirectoryName": "/20241114_165/1731510911699AGG1p_JPEG"
+                },
+                {
+                    "id": 3371596475,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241114_13/17315109177112t0t9_JPEG/IMG_7660.jpeg",
+                    "attachWidth": 3213,
+                    "attachHeight": 5712,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241114_13/17315109177112t0t9_JPEG/IMG_7660.jpeg",
+                    "attachSize": 4471324,
+                    "attachDescription": "",
+                    "sortOrder": 2,
+                    "attachName": "IMG_7660.jpeg",
+                    "attachDirectoryName": "/20241114_13/17315109177112t0t9_JPEG"
+                },
+                {
+                    "id": 3371596476,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241114_227/1731510911783YhT9k_JPEG/IMG_7663.jpeg",
+                    "attachWidth": 4284,
+                    "attachHeight": 4820,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241114_227/1731510911783YhT9k_JPEG/IMG_7663.jpeg",
+                    "attachSize": 3247749,
+                    "attachDescription": "",
+                    "sortOrder": 3,
+                    "attachName": "IMG_7663.jpeg",
+                    "attachDirectoryName": "/20241114_227/1731510911783YhT9k_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000236,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewUserInfoValues": [
+                {
+                    "itemId": 62,
+                    "itemOptionId": 2,
+                    "itemValue": "2인"
+                }
+            ],
+            "reviewTopics": [
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 0,
+                    "patternEndNo": 6
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 16,
+                    "patternEndNo": 33
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 126,
+                    "patternEndNo": 135
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "DEFAULT",
+            "repThumbnailAttach": {
+                "id": 3371596473,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241114_160/1731510916647wAQN6_JPEG/IMG_7654.jpeg",
+                "attachWidth": 3213,
+                "attachHeight": 5712,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241114_160/1731510916647wAQN6_JPEG/IMG_7654.jpeg",
+                "attachSize": 5095018,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "IMG_7654.jpeg",
+                "attachDirectoryName": "/20241114_160/1731510916647wAQN6_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4599427083,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "여태까지 먹었던 과메기는 과메기가 아니였다.아니 왜이렇게ㅇ꼬숩고 맛있는거죠? 과메길 맛있게 먹어본적이 없는데 평이좋길래 라방서 흑고동세트랑 같이 구매했는데 배송빠르고 당언  포장꼼꼼하고 야채 싱싱하고 과메긴 맛있고!\n너무 맛있게 먹었어요!",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-11-14T13:09:01.183+00:00",
+            "freeTrial": false,
+            "repurchase": false,
+            "reviewRankingScore": -64.18057,
+            "writerId": "akir***",
+            "maskedWriterId": "akir***",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://phinf.pstatic.net/contact/20/2012/4/25/akiraph_1335318480691.png",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024111356315891",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: ♥라이브특가♥10마리20쪽 야채풀 SET",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: ♥라이브특가♥10마리20쪽 야채풀 SET",
+            "reviewAttaches": [
+                {
+                    "id": 3372046031,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241114_13/1731589496707KGBK9_JPEG/1000061813.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241114_13/1731589496707KGBK9_JPEG/1000061813.jpg",
+                    "attachSize": 4114421,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "1000061813.jpg",
+                    "attachDirectoryName": "/20241114_13/1731589496707KGBK9_JPEG"
+                },
+                {
+                    "id": 3372046032,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241114_209/1731589496883J9xEI_JPEG/1000061811.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241114_209/1731589496883J9xEI_JPEG/1000061811.jpg",
+                    "attachSize": 5366510,
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "1000061811.jpg",
+                    "attachDirectoryName": "/20241114_209/1731589496883J9xEI_JPEG"
+                },
+                {
+                    "id": 3372046033,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241114_38/1731589497183xdNfJ_JPEG/1000061812.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241114_38/1731589497183xdNfJ_JPEG/1000061812.jpg",
+                    "attachSize": 5768085,
+                    "attachDescription": "",
+                    "sortOrder": 2,
+                    "attachName": "1000061812.jpg",
+                    "attachDirectoryName": "/20241114_38/1731589497183xdNfJ_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000236,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewUserInfoValues": [
+                {
+                    "itemId": 62,
+                    "itemOptionId": 2,
+                    "itemValue": "2인"
+                }
+            ],
+            "reviewTopics": [
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 32,
+                    "patternEndNo": 40
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 43,
+                    "patternEndNo": 52
+                },
+                {
+                    "topicCode": "delivery",
+                    "topicCodeName": "배송",
+                    "patternStartNo": 87,
+                    "patternEndNo": 91
+                },
+                {
+                    "topicCode": "delivery",
+                    "topicCodeName": "배송",
+                    "patternStartNo": 93,
+                    "patternEndNo": 102
+                },
+                {
+                    "topicCode": "packing",
+                    "topicCodeName": "포장",
+                    "patternStartNo": 93,
+                    "patternEndNo": 102
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 112,
+                    "patternEndNo": 118
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 120,
+                    "patternEndNo": 131
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "NAVER_PROFILE",
+            "repThumbnailAttach": {
+                "id": 3372046031,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241114_13/1731589496707KGBK9_JPEG/1000061813.jpg",
+                "attachWidth": 3000,
+                "attachHeight": 4000,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241114_13/1731589496707KGBK9_JPEG/1000061813.jpg",
+                "attachSize": 4114421,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "1000061813.jpg",
+                "attachDirectoryName": "/20241114_13/1731589496707KGBK9_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4596619545,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "저는 빠짝마른것보단 쫀득하고 젤리식감 좋아하는데 하모니가 저는 딱이에요!!! 비린맛? 생선인데 없을순없구요ㅎ 저는 날거 비린거 다 좋아해요, 통으로 시켜서 각자 취향대로 찢어서먹고 잘라서먹고 야채.다시마도 진짜 신선해서 씻지않고 그냥 까서 먹으면되니 너무 간편하고 좋았어요!! 초장도 엄마가드시더니 이거 집에서 만든 초장이냐고 묻길래 깜놀~~ 한끼 너무 간단하게 맛잇게 먹었습니다^^ 하모니 남매님 투샷 스티커도 볼때마다 저도 같이 웃게됩니다♡♡",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-11-11T03:06:26.508+00:00",
+            "freeTrial": false,
+            "repurchase": false,
+            "reviewRankingScore": -64.18209,
+            "writerId": "skyb*******",
+            "maskedWriterId": "skyb*******",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://profile-phinf.pstatic.net/404/default.png",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024110861877201",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContentNoDisplay": false,
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: (추천) 20마리40쪽 야채풀 SET",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: (추천) 20마리40쪽 야채풀 SET",
+            "reviewAttaches": [
+                {
+                    "id": 3370254104,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241111_23/1731293855637Lx0ss_JPEG/1000013273.jpg",
+                    "attachWidth": 3024,
+                    "attachHeight": 3024,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241111_23/1731293855637Lx0ss_JPEG/1000013273.jpg",
+                    "attachSize": 3859623,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "1000013273.jpg",
+                    "attachDirectoryName": "/20241111_23/1731293855637Lx0ss_JPEG"
+                },
+                {
+                    "id": 3370254105,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241111_101/1731293866782ssY8i_JPEG/1000013272.jpg",
+                    "attachWidth": 3024,
+                    "attachHeight": 3024,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241111_101/1731293866782ssY8i_JPEG/1000013272.jpg",
+                    "attachSize": 3643371,
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "1000013272.jpg",
+                    "attachDirectoryName": "/20241111_101/1731293866782ssY8i_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000236,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewTopics": [
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 43,
+                    "patternEndNo": 45
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 61,
+                    "patternEndNo": 77
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 123,
+                    "patternEndNo": 151
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 215,
+                    "patternEndNo": 246
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "DEFAULT",
+            "repThumbnailAttach": {
+                "id": 3370254104,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241111_23/1731293855637Lx0ss_JPEG/1000013273.jpg",
+                "attachWidth": 3024,
+                "attachHeight": 3024,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241111_23/1731293855637Lx0ss_JPEG/1000013273.jpg",
+                "attachSize": 3859623,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "1000013273.jpg",
+                "attachDirectoryName": "/20241111_23/1731293855637Lx0ss_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4598312246,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "과메기 ..... 진짜 쫀득하고 신선하네요\n야채들도 다 싱싱하고 바로 먹을수있어서 너므좋았어요.\n과메기 먹고싶어서 월요일오전에 주문하고 화요일저녁에 배송와서 바로 뜯어서 먹었어요. \n양도 알찹니다.\n재재재구매의사 있어요.\n배부르게 어제오늘 먹었어요. 제철 과메기는 꼭 먹어야죠~ \n다음번 구매할때 다시마 추가할수있으면 해야겠어요.",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-11-13T06:29:55.126+00:00",
+            "freeTrial": false,
+            "repurchase": false,
+            "reviewRankingScore": -64.185036,
+            "writerId": "vioz***",
+            "maskedWriterId": "vioz***",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://profile-phinf.pstatic.net/404/default.png",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024111157470231",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContentNoDisplay": false,
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: (추천) 15마리30쪽 야채풀 SET",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: (추천) 15마리30쪽 야채풀 SET",
+            "reviewAttaches": [
+                {
+                    "id": 3371306444,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241113_261/1731479241762aRRfu_JPEG/IMG_6183.jpeg",
+                    "attachWidth": 3024,
+                    "attachHeight": 4032,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241113_261/1731479241762aRRfu_JPEG/IMG_6183.jpeg",
+                    "attachSize": 2005036,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "IMG_6183.jpeg",
+                    "attachDirectoryName": "/20241113_261/1731479241762aRRfu_JPEG"
+                },
+                {
+                    "id": 3371306445,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241113_280/17314792417380swmn_JPEG/IMG_6182.jpeg",
+                    "attachWidth": 3024,
+                    "attachHeight": 4032,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241113_280/17314792417380swmn_JPEG/IMG_6182.jpeg",
+                    "attachSize": 2461094,
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "IMG_6182.jpeg",
+                    "attachDirectoryName": "/20241113_280/17314792417380swmn_JPEG"
+                },
+                {
+                    "id": 3371306447,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241113_289/1731479240948ojs6C_JPEG/IMG_6181.jpeg",
+                    "attachWidth": 3024,
+                    "attachHeight": 4032,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241113_289/1731479240948ojs6C_JPEG/IMG_6181.jpeg",
+                    "attachSize": 4393176,
+                    "attachDescription": "",
+                    "sortOrder": 2,
+                    "attachName": "IMG_6181.jpeg",
+                    "attachDirectoryName": "/20241113_289/1731479240948ojs6C_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000236,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewTopics": [
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 18,
+                    "patternEndNo": 22
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 46,
+                    "patternEndNo": 51
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 110,
+                    "patternEndNo": 121
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "DEFAULT",
+            "repThumbnailAttach": {
+                "id": 3371306444,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241113_261/1731479241762aRRfu_JPEG/IMG_6183.jpeg",
+                "attachWidth": 3024,
+                "attachHeight": 4032,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241113_261/1731479241762aRRfu_JPEG/IMG_6183.jpeg",
+                "attachSize": 2005036,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "IMG_6183.jpeg",
+                "attachDirectoryName": "/20241113_261/1731479241762aRRfu_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4601757777,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "10마리 두 세트는 양가집 배달하고,ㅋ\n15마리세트는 저희집손님초대로 시켰어요\n워낙 많이드셔본분들이겠지만\n바닷가사람이 있었는데 쿰쿰한거는 못드신다더라구요\n포항가면 모든식당에서 반찬으로나온다며..ㅋ\n근데 다 맛이없대요ㅋㅋ\n이거 후기 짱좋은거 믿고사본거라고 드셔보시랫더니\n신랑은 연신 오~~~진짜괜찮다~!!! 하며 먹고ㅋ\n손님도잘드셨어요 잘 시켰다고 칭찬들었어요✌️\n시댁,친정 부모님들도 이틀내내 잘 드셨다고하시네요^^\n배추가 오래된건지ㅠ보관을잘못하신건지\n 중간중간 다 색변하고 물러있어서\n베어내고 먹었어요^^;\n마늘고추쌈채는 싱싱~ 초고추장도맛있다네요^^",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-11-18T02:57:30.187+00:00",
+            "freeTrial": false,
+            "repurchase": false,
+            "reviewRankingScore": -64.185135,
+            "writerId": "kimt*******",
+            "maskedWriterId": "kimt*******",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://profile-phinf.pstatic.net/404/default.png",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024111374100941",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: ★라이브특가★ 15마리30쪽 야채풀 SET",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: ★라이브특가★ 15마리30쪽 야채풀 SET",
+            "reviewAttaches": [
+                {
+                    "id": 3373524280,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241118_243/1731898643818WKHfN_JPEG/1000031192.jpg",
+                    "attachWidth": 3000,
+                    "attachHeight": 4000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241118_243/1731898643818WKHfN_JPEG/1000031192.jpg",
+                    "attachSize": 5696367,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "1000031192.jpg",
+                    "attachDirectoryName": "/20241118_243/1731898643818WKHfN_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000236,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewUserInfoValues": [
+                {
+                    "itemId": 62,
+                    "itemOptionId": 4,
+                    "itemValue": "4인"
+                },
+                {
+                    "itemId": 63,
+                    "itemOptionId": 4,
+                    "itemValue": "취학자녀 가정"
+                }
+            ],
+            "reviewTopics": [
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 123,
+                    "patternEndNo": 135
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "DEFAULT",
+            "repThumbnailAttach": {
+                "id": 3373524280,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241118_243/1731898643818WKHfN_JPEG/1000031192.jpg",
+                "attachWidth": 3000,
+                "attachHeight": 4000,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241118_243/1731898643818WKHfN_JPEG/1000031192.jpg",
+                "attachSize": 5696367,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "1000031192.jpg",
+                "attachDirectoryName": "/20241118_243/1731898643818WKHfN_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4589362284,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "첫 주문 때부터 과메기 맛에 완전히 반해서 두 번, 세 번째로 연속 주문하게 됐어요! 이번 달 주말은 하모니과메기와 함께 보내고 있습니다. 과메기는 말할 것도 없이 신선하고 맛있어서 한 번 먹으면 계속 생각날 정도예요.\n\n특히 요즘 채소 가격이 많이 올랐는데도, 신선한 야채를 아낌없이 듬뿍 챙겨주셔서 너무 감사했어요. 다시마, 쪽파, 고추,마늘 등 야채들이 넉넉하게 들어 있어서 추가로 준비할 필요 없이 편하게 먹을 수 있었답니다. \n초장도 완전 넉넉하고 마지막 피날레는 과메기비빔밥!!!진짜 맛있어요\n덕분에 가족들도, 손님들도 너무 만족해하고, 맛있게 먹었어요.\n\n맛과 품질, 그리고 정성까지 모두 갖춘 하모니과메기, 앞으로도 쭉 애용할 것 같아요!\n\n원래 귀찮아서 상품평 잘 안남기는데\n하모니과메기는 감동그자체!!라서\n재주문하러왔다가 상품평 남깁니다😇😇",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-10-31T21:15:39.301+00:00",
+            "freeTrial": false,
+            "repurchase": true,
+            "helpCount": 2,
+            "reviewRankingScore": -64.18698,
+            "writerId": "ks48*******",
+            "maskedWriterId": "ks48*******",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://phinf.pstatic.net/contact/20180404_58/1522838648520A9AAw_PNG/avatar_profile.png",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024102367805321",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContentNoDisplay": false,
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "reviewAttaches": [
+                {
+                    "id": 3365711543,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241101_205/1730409325039leHL5_JPEG/1000043828.jpg",
+                    "attachWidth": 4000,
+                    "attachHeight": 3000,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241101_205/1730409325039leHL5_JPEG/1000043828.jpg",
+                    "attachSize": 4706218,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "1000043828.jpg",
+                    "attachDirectoryName": "/20241101_205/1730409325039leHL5_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000236,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewUserInfoValues": [
+                {
+                    "itemId": 62,
+                    "itemOptionId": 4,
+                    "itemValue": "4인"
+                },
+                {
+                    "itemId": 63,
+                    "itemOptionId": 3,
+                    "itemValue": "영유아 가정"
+                }
+            ],
+            "reviewTopics": [
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 102,
+                    "patternEndNo": 120
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 102,
+                    "patternEndNo": 120
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 147,
+                    "patternEndNo": 176
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 274,
+                    "patternEndNo": 280
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 292,
+                    "patternEndNo": 304
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 307,
+                    "patternEndNo": 314
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 348,
+                    "patternEndNo": 363
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 386,
+                    "patternEndNo": 399
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "NAVER_PROFILE",
+            "repThumbnailAttach": {
+                "id": 3365711543,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241101_205/1730409325039leHL5_JPEG/1000043828.jpg",
+                "attachWidth": 4000,
+                "attachHeight": 3000,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241101_205/1730409325039leHL5_JPEG/1000043828.jpg",
+                "attachSize": 4706218,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "1000043828.jpg",
+                "attachDirectoryName": "/20241101_205/1730409325039leHL5_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4586597007,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "과메기를 너무느므 좋아하는 사람중 한명인데요, 정말 쫄!깃!하고 완전 맛있게 먹었어요 ㅠㅠ 요즘같이 야채가 이렇게 비싼데도 신선한 야채랑, 해초류 엄청 미어터지게 가득가득 넣어주셔가지구 신랑이랑 엄~~청 푸짐하게 저녁으로 두끼 먹었어요..🥹(감동) 너무넘 맛있어요 진짜 비린거 못드시는 분들은 꼭 주문해서 드셔보세요 절대! 후회안하심!!맛있는 과메기 찾기 넘나 힘든데 ㅠ,ㅠ 저희 신랑도 비린거 못먹어서 과메기 즐겨하지 않거든요 진짜 맛있다고 평생먹을 과메기 다 먹었다고 하네욬ㅋㅋㅋ 하지만 전 또 시켜먹을꺼에요🤑🔥",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-10-28T01:37:49.170+00:00",
+            "freeTrial": false,
+            "repurchase": false,
+            "reviewRankingScore": -64.18905,
+            "writerId": "wood***",
+            "maskedWriterId": "wood***",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://phinf.pstatic.net/contact/20240418_147/171341932283369hlt_PNG/avatar_profile.png",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024102361789141",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContentNoDisplay": false,
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "reviewAttaches": [
+                {
+                    "id": 3363962033,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241028_95/173007915194832vyt_JPEG/IMG_6454.jpeg",
+                    "attachWidth": 3024,
+                    "attachHeight": 4032,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241028_95/173007915194832vyt_JPEG/IMG_6454.jpeg",
+                    "attachSize": 3067172,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "IMG_6454.jpeg",
+                    "attachDirectoryName": "/20241028_95/173007915194832vyt_JPEG"
+                },
+                {
+                    "id": 3363962034,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241028_48/1730079152160adG42_JPEG/IMG_6458.jpeg",
+                    "attachWidth": 3024,
+                    "attachHeight": 4032,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241028_48/1730079152160adG42_JPEG/IMG_6458.jpeg",
+                    "attachSize": 3356992,
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "IMG_6458.jpeg",
+                    "attachDirectoryName": "/20241028_48/1730079152160adG42_JPEG"
+                },
+                {
+                    "id": 3363962035,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241028_110/1730079151912tYKCP_JPEG/IMG_6456.jpeg",
+                    "attachWidth": 3024,
+                    "attachHeight": 4032,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241028_110/1730079151912tYKCP_JPEG/IMG_6456.jpeg",
+                    "attachSize": 2198829,
+                    "attachDescription": "",
+                    "sortOrder": 2,
+                    "attachName": "IMG_6456.jpeg",
+                    "attachDirectoryName": "/20241028_110/1730079151912tYKCP_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000236,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewUserInfoValues": [
+                {
+                    "itemId": 62,
+                    "itemOptionId": 2,
+                    "itemValue": "2인"
+                },
+                {
+                    "itemId": 63,
+                    "itemOptionId": 2,
+                    "itemValue": "신혼/부부"
+                }
+            ],
+            "reviewTopics": [
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 36,
+                    "patternEndNo": 46
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 139,
+                    "patternEndNo": 146
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 181,
+                    "patternEndNo": 185
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 192,
+                    "patternEndNo": 204
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 240,
+                    "patternEndNo": 246
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "NAVER_PROFILE",
+            "repThumbnailAttach": {
+                "id": 3363962033,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241028_95/173007915194832vyt_JPEG/IMG_6454.jpeg",
+                "attachWidth": 3024,
+                "attachHeight": 4032,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241028_95/173007915194832vyt_JPEG/IMG_6454.jpeg",
+                "attachSize": 3067172,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "IMG_6454.jpeg",
+                "attachDirectoryName": "/20241028_95/173007915194832vyt_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4597534670,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "남편은 해병대를 나왔습니다. \n\n포항에 과메기란 과메기는 다 먹어봤다며 \n해병의 자부심을 거의 과메기로 보여줄 정도로...\n\n그런 남편이 극찬하고 또 극찬합니다 \n요즘 포장부터 맛까지 거기가 거기 라고 생각하겠지만 \n\n하모니만의 맛이 있어요!! \n\n보통 더 추워져야 과메기가 맛있다지만 \n이미 .. 맛있어요.. \n\n정말 맛있어서 둘이서 한번에 다 먹어버렸어요ㅋㅋ \n\n다음주에 또 주문합늬:) \n\n하모늬 과메기 번창번창하세요~!!",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-11-12T08:02:12.780+00:00",
+            "freeTrial": false,
+            "repurchase": false,
+            "reviewRankingScore": -64.19504,
+            "writerId": "ka****",
+            "maskedWriterId": "ka****",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://profile-phinf.pstatic.net/404/default.png",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024110697600641",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContentNoDisplay": false,
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "reviewAttaches": [
+                {
+                    "id": 3370792468,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241112_88/1731398489253GVNWe_JPEG/KakaoTalk_20241112_170102292.jpg",
+                    "attachWidth": 1080,
+                    "attachHeight": 1440,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241112_88/1731398489253GVNWe_JPEG/KakaoTalk_20241112_170102292.jpg",
+                    "attachSize": 730558,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "KakaoTalk_20241112_170102292.jpg",
+                    "attachDirectoryName": "/20241112_88/1731398489253GVNWe_JPEG"
+                },
+                {
+                    "id": 3370792469,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241112_236/1731398489230Ok0HP_JPEG/KakaoTalk_20241112_170102292_01.jpg",
+                    "attachWidth": 1080,
+                    "attachHeight": 1440,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241112_236/1731398489230Ok0HP_JPEG/KakaoTalk_20241112_170102292_01.jpg",
+                    "attachSize": 641937,
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "KakaoTalk_20241112_170102292_01.jpg",
+                    "attachDirectoryName": "/20241112_236/1731398489230Ok0HP_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000236,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewTopics": [
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 91,
+                    "patternEndNo": 118
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 167,
+                    "patternEndNo": 170
+                },
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 174,
+                    "patternEndNo": 195
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 205,
+                    "patternEndNo": 215
+                },
+                {
+                    "topicCode": "total",
+                    "topicCodeName": "만족도",
+                    "patternStartNo": 221,
+                    "patternEndNo": 235
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "DEFAULT",
+            "repThumbnailAttach": {
+                "id": 3370792468,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241112_88/1731398489253GVNWe_JPEG/KakaoTalk_20241112_170102292.jpg",
+                "attachWidth": 1080,
+                "attachHeight": 1440,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241112_88/1731398489253GVNWe_JPEG/KakaoTalk_20241112_170102292.jpg",
+                "attachSize": 730558,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "KakaoTalk_20241112_170102292.jpg",
+                "attachDirectoryName": "/20241112_88/1731398489253GVNWe_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        },
+        {
+            "id": 4590081731,
+            "reviewType": "NORMAL",
+            "reviewServiceType": "SELLBLOG",
+            "reviewContentClassType": "PHOTO",
+            "reviewScore": 5,
+            "reviewContent": "작년엔 혼자 시켜먹었다가 올해는 남자친구도 먹여야겠다 싶어서 남자친구 있을 때 받았어요!\n\n비린거 잘 못먹는데 여전히 그닥 비리지 않구요, 이번에 쪽파 잎부분이 살짝 무른게 있었는데 물기가 좀 남아있다보니 그랬던 것 같아요. 인심 넉넉하게 초장도 한 병 주셔서 한가득 푹푹 찍어먹었구요, 꼬시래기랑 돌김 추가해서 한가득 먹었더니 너무 행복한 저녁 한 상 이었습니다 ٩(๑❛ᴗ❛๑)۶♡ \n\n양이 많아서 두 명이서 배부르게 먹었는데도 남았어요! 내일은 남은 과메기랑 야채로 과메기무침 해먹을 예정입니다ㅎㅎ 남자친구가 부모님 시켜드릴거라면서 저한테 어디서 주문했는지 알려달라고 했어요 영업성공했답니다 ☺️🩷\n또 확 추워지면 주문할게요오",
+            "contentsStatusType": "NORMAL",
+            "createDate": "2024-11-01T15:44:07.905+00:00",
+            "freeTrial": false,
+            "repurchase": false,
+            "reviewRankingScore": -64.19577,
+            "writerId": "jj****",
+            "maskedWriterId": "jj****",
+            "writerIdNo": "",
+            "writerMemberNo": 0,
+            "writerProfileImageUrl": "https://phinf.pstatic.net/contact/20230703_234/1688386491467R1pKp_JPEG/profileImage.jpg",
+            "storeType": "STOREFARM",
+            "storeNo": 100261268,
+            "checkoutMerchantId": "",
+            "checkoutMerchantNo": 0,
+            "orderNo": "",
+            "productOrderNo": "2024103146498621",
+            "productNo": "3665125285",
+            "productName": "포항 구룡포 과메기 야채세트",
+            "productUrl": "https://smartstore.naver.com/main/products/3665125285",
+            "largeCategorizeCategoryId": "50000006",
+            "middleCategorizeCategoryId": "50000159",
+            "smallCategorizeCategoryId": "50001051",
+            "detailCategorizeCategoryId": "50004743",
+            "productOptionContentNoDisplay": false,
+            "productOptionContent": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "knowledgeShoppingMallProductId": "3665125285",
+            "originProductNo": 3659054112,
+            "standardPurchaseConditionText": "♥ 2024 햇과메기 OPEN ♥: (추천) 10마리20쪽 야채풀 SET",
+            "reviewAttaches": [
+                {
+                    "id": 3366142042,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241102_267/1730475288095MDBGL_JPEG/1000026802.jpg",
+                    "attachWidth": 2992,
+                    "attachHeight": 2992,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241102_267/1730475288095MDBGL_JPEG/1000026802.jpg",
+                    "attachSize": 1971988,
+                    "attachDescription": "",
+                    "sortOrder": 0,
+                    "attachName": "1000026802.jpg",
+                    "attachDirectoryName": "/20241102_267/1730475288095MDBGL_JPEG"
+                },
+                {
+                    "id": 3366142043,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241102_198/1730475288154clLaq_JPEG/1000026801.jpg",
+                    "attachWidth": 2992,
+                    "attachHeight": 2992,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241102_198/1730475288154clLaq_JPEG/1000026801.jpg",
+                    "attachSize": 4351402,
+                    "attachDescription": "",
+                    "sortOrder": 1,
+                    "attachName": "1000026801.jpg",
+                    "attachDirectoryName": "/20241102_198/1730475288154clLaq_JPEG"
+                },
+                {
+                    "id": 3366142044,
+                    "reviewAttachmentType": "I",
+                    "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241102_86/1730475288137d1tmu_JPEG/1000026800.jpg",
+                    "attachWidth": 2992,
+                    "attachHeight": 2992,
+                    "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241102_86/1730475288137d1tmu_JPEG/1000026800.jpg",
+                    "attachSize": 3696179,
+                    "attachDescription": "",
+                    "sortOrder": 2,
+                    "attachName": "1000026800.jpg",
+                    "attachDirectoryName": "/20241102_86/1730475288137d1tmu_JPEG"
+                }
+            ],
+            "reviewEvaluationValueIds": [
+                1000235,
+                1000245,
+                1000224
+            ],
+            "subReviewEvaluationValueIds": [],
+            "reviewUserInfoValues": [
+                {
+                    "itemId": 62,
+                    "itemOptionId": 1,
+                    "itemValue": "1인"
+                },
+                {
+                    "itemId": 63,
+                    "itemOptionId": 1,
+                    "itemValue": "싱글"
+                }
+            ],
+            "reviewTopics": [
+                {
+                    "topicCode": "taste",
+                    "topicCodeName": "맛",
+                    "patternStartNo": 62,
+                    "patternEndNo": 76
+                }
+            ],
+            "eventTitle": "",
+            "profileImageSourceType": "NAVER_PROFILE",
+            "repThumbnailAttach": {
+                "id": 3366142042,
+                "reviewAttachmentType": "I",
+                "attachUrl": "https://phinf.pstatic.net/checkout.phinf/20241102_267/1730475288095MDBGL_JPEG/1000026802.jpg",
+                "attachWidth": 2992,
+                "attachHeight": 2992,
+                "attachPath": "https://phinf.pstatic.net/checkout.phinf/20241102_267/1730475288095MDBGL_JPEG/1000026802.jpg",
+                "attachSize": 1971988,
+                "attachDescription": "",
+                "sortOrder": 0,
+                "attachName": "1000026802.jpg",
+                "attachDirectoryName": "/20241102_267/1730475288095MDBGL_JPEG"
+            },
+            "repThumbnailTagNameDescription": {},
+            "isMyReview": false
+        }
+    ],
+    "page": 3,
+    "size": 20,
+    "totalElements": 88819,
+    "totalPages": 4441,
+    "sort": {
+        "sorted": true,
+        "fields": [
+            {
+                "name": "reviewRankingScore",
+                "direction": "desc"
+            },
+            {
+                "name": "createDate",
+                "direction": "desc"
+            }
+        ]
+    },
+    "first": false,
+    "last": false
+}

@@ -36,15 +36,15 @@ headers = {
 
 # Note: json_data will not be serialized by requests
 # exactly as it was in the original request.
-data = '{"checkoutMerchantNo":510244741,"originProductNo":3659054112,"page":1,"pageSize":30,"reviewSearchSortType":"REVIEW_RANKING"}'
-response = requests.post(
-   'https://smartstore.naver.com/i/v1/contents/reviews/query-pages',
-   cookies=cookies,
-   headers=headers,
-   data=data,
-) 
+# data = '{"checkoutMerchantNo":510244741,"originProductNo":3659054112,"page":1,"pageSize":30,"reviewSearchSortType":"REVIEW_RANKING"}'
+# response = requests.post(
+#    'https://smartstore.naver.com/i/v1/contents/reviews/query-pages',
+#    cookies=cookies,
+#    headers=headers,
+#    data=data,
+# ) 
 
-for i in range(700,2900):
+for i in range(1,2900):
     data = '{"checkoutMerchantNo":510244741,"originProductNo":3659054112,"page":' + str(i) + ',"pageSize":30,"reviewSearchSortType":"REVIEW_RANKING"}'
     response = requests.post(
    'https://smartstore.naver.com/i/v1/contents/reviews/query-pages',
